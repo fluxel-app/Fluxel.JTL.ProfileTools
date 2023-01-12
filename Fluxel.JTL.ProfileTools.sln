@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluxel.JTL.ProfileTools", "Fluxel.JTL.ProfileTools\Fluxel.JTL.ProfileTools.csproj", "{68B7DC32-FE2B-483B-B022-A511CE6A2866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B7DC32-FE2B-483B-B022-A511CE6A2866}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{68B7DC32-FE2B-483B-B022-A511CE6A2866}.Debug|x86.ActiveCfg = Debug|x86
+		{68B7DC32-FE2B-483B-B022-A511CE6A2866}.Debug|x86.Build.0 = Debug|x86
+		{68B7DC32-FE2B-483B-B022-A511CE6A2866}.Release|Any CPU.ActiveCfg = Release|x86
+		{68B7DC32-FE2B-483B-B022-A511CE6A2866}.Release|x86.ActiveCfg = Release|x86
+		{68B7DC32-FE2B-483B-B022-A511CE6A2866}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55865F9-70E1-4071-8185-F57DE5A44266}
+	EndGlobalSection
+EndGlobal
